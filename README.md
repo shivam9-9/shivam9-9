@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first "Hello, World!"<br>📚 I'm currently learning advanced data structures and algorithms in C++<br>🎯 Goals: Crack a top-tier software engineering job and contribute to open-source<br>🎲 Fun fact: I've solved over 1000 coding questions, and sometimes I still forget to check for edge cases!</p>
+<p align="left">✨ Creating bugs since my first "Hello, World!"<br>📚 I'm currently learning advanced data structures and algorithms in C++<br>🎯 Goals: Crack a top-tier software engineering role and contribute to open-source<br>🎲 Fun fact: I’ve solved over 1000 coding problems, but a clean compile and successful submission still feels magical!</p>
 
 ###
 
